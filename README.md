@@ -1,6 +1,6 @@
 # Train Booking System
 
-- Contributors: [Vincent Espana](https://github.com/v3espana), [Sofia Wolfel](https://github.com/sofiaWaffle), [Vivian Zhao](https://github.com/vivian1zhao), [Matt Yun](https://github.com/Mattyun34)
+- Contributors: [Vivian Zhao](https://github.com/vivian1zhao), [Sofia Wolfel](https://github.com/sofiaWaffle), [Vincent Espana](https://github.com/v3espana), [Matt Yun](https://github.com/Mattyun34)
 - Course: Principles of Information and Data Management ([01:198:336](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-336-principles-of-information-and-data-management))
 - Professor: Antonio Miranda-Garcia
 - Semester: Fall 2024
