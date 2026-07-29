@@ -12,15 +12,15 @@ In this project, we designed and implemented a relational database–driven web 
 
 
 ## System Components
-- **Account Management**: Registration, login/logout for customers, admins, and customer reps
 
+- **Account Management**: Registration, login/logout for customers, admins, and customer reps
 - **Schedule Search & Browsing**: Search trains by origin/destination/date, view stops and fares, sort results
 - **Booking & Reservation**: Create/cancel one‑way or round‑trip bookings, apply child/senior/disabled discounts, view current and past reservations
 - **Discount & Fare Engine**: Automatically calculate and apply eligible fare reductions
 - **Administrator Dashboard**: Pre‑established admin account, manage customer‑rep accounts, generate monthly sales reports, list reservations and revenue by line or customer, identify top customers and busiest lines
 - **Customer‑Rep Interface**: CRUD train schedules, handle customer questions (browse, search, reply), list customers with reservations on a given line/date
 - **Reporting & Analytics**: Sales and revenue statistics, insights on best customers and top train lines
-- **Customer Q&A Module:**: Forum for end‑users to submit questions and view answers from customer reps
+- **Customer Q&A Module**: Forum for end‑users to submit questions and view answers from customer reps
 
 
 ## Tools
